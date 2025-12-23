@@ -18,5 +18,4 @@ sentence-transformers==4.1.0
 pymupdf==1.26.4
 pypdf==5.9.0
 
-json
 regex==2025.7.34
