@@ -5,7 +5,7 @@ from engines.llm_engine import Answer
 from doc_loader import load_uploaded_files
 from llama_index.core.llms import ChatMessage
 
-st.set_page_config(page_title='LegalGPT | Contract AI Assistant', layout='wide', page_icon='static/img/icon.png')
+st.set_page_config(page_title='ClauseAI | Contract AI Assistant', layout='wide', page_icon='static/img/icon.png')
 get_state()
 
 with open("static/css/style.css") as f:
