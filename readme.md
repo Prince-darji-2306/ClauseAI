@@ -1,5 +1,4 @@
-```markdown
-# ClauseAI 📑
+## ClauseAI 📑
 
 **A Smart Legal Document Analysis System powered by LLMs and RAG**
 
