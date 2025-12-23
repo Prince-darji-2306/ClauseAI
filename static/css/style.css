@@ -1,0 +1,14 @@
+[data-testid="stMainBlockContainer"]{
+    padding-top: 20px;
+}
+.user-msg {
+    background-color: #f2f2f2;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 14px;
+    margin: 20px 0;
+    max-width: 75%;
+    float: right;
+    clear: both;
+    text-align: right;
+}
