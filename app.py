@@ -36,7 +36,7 @@ elif st.session_state.page == 'chat':
     files = st.session_state.files
     
     if engine:
-        st.title("Let's Discuss your Legal Terms ?")
+        st.title("Let's Discuss your Legal Terms")
         query = st.chat_input('Feel free to ask 😉')
 
         for msg in st.session_state.chat_history:
