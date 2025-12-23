@@ -61,4 +61,3 @@ ClauseAI is still evolving! Feedback, ideas, bug reports, and contributions are 
 
 ---
 Made with ❤️ by [Prince Darji](https://github.com/Prince-darji-2306)
-```
